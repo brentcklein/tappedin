@@ -1,10 +1,10 @@
-import { TappedInPage } from './app.po';
+import { ClientPage } from './app.po';
 
-describe('tapped-in App', () => {
-  let page: TappedInPage;
+describe('client App', () => {
+  let page: ClientPage;
 
   beforeEach(() => {
-    page = new TappedInPage();
+    page = new ClientPage();
   });
 
   it('should display message saying app works', () => {

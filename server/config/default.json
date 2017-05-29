@@ -1,0 +1,8 @@
+/**
+ * Created by brentklein on 5/8/17.
+ */
+{
+  "Server": {
+    "port": 3100
+  }
+}
